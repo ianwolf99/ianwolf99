@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IanWolf99</h1>
-<h3 align="center">Computer Programmer|Linux Enthusiat</h3>
+<h3 align="center">Computer Programmer|Linux Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianwolf99&label=Profile%20views&color=0e75b6&style=flat" alt="ianwolf99" /> </p>
 
