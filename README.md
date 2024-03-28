@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ianwolf99](https://github.com/ianwolf99)
 
-- 💬 Ask me about **Django,laravel REST API,Powershell,Bash,Linux Administration**
+- 💬 Ask me about **Django,laravel REST API,Powershell,Bash,Linux Administration,Generative AI,Machine Learning**
 
 - 📫 How to reach me **ianwolf756@gmail.com**
 
