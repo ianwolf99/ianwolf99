@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Algorithmic Trading Bot**
 
-- 🌱 I’m currently learning **php laravel**
+- 🌱 I’m currently learning and researching Deep Learning with tensorflow 2.0 and Keras plus Building Laravel APIS
 
 - 👨‍💻 All of my projects are available at [https://github.com/ianwolf99](https://github.com/ianwolf99)
 
-- 💬 Ask me about **Django,laravel REST API,Powershell,Bash,Linux Administration,Generative AI,Machine Learning**
+- 💬 Ask me about **Django rest framework,laravel REST API,Powershell,Bash,Linux Administration,Generative AI,Machine Learning,Deep Learning**
 
 - 📫 How to reach me **ianwolf756@gmail.com**
 
