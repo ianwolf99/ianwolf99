@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianwolf99" alt="ianwolf99" /></a> </p>
 
-- 🔭 I’m currently working on **Algorithmic Trading Bot**
+- 🔭 I’m currently taking a Course on **Applied Data Science Lab**
 
-- 🌱 I’m currently learning and researching Deep Learning with tensorflow 2.0 and Keras plus Building Laravel APIS
+- 🌱 I’m currently  researching Deep Learning with tensorflow 2.0 and Keras plus Building Laravel APIS
 
 - 👨‍💻 All of my projects are available at [https://github.com/ianwolf99](https://github.com/ianwolf99)
 
