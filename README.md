@@ -78,74 +78,7 @@
   <a href="https://www.consul.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="Consul" width="40" height="40"/>
   </a>
- <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="Burp Suite" width="40" height="40"/>
-  </a>
-  <!-- OWASP -->
-  <a href="https://owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="OWASP" width="40" height="40"/>
-  </a>
-  <!-- Metasploit -->
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rapid7/rapid7-icon.svg" alt="Metasploit" width="40" height="40"/>
-  </a>
-  <!-- Wireshark -->
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
-  </a>
-  <!-- Kali Linux -->
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  </a>
-  <!-- Nessus -->
-  <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tenable/tenable-icon.svg" alt="Nessus" width="40" height="40"/>
-  </a>
-  <!-- Nmap -->
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Nmap_logo.svg" alt="Nmap" width="40" height="40"/>
-  </a>
-  <!-- Snort -->
-  <a href="https://www.snort.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" alt="Snort" width="40" height="40"/>
-  </a>
-  <!-- Cobalt Strike -->
-  <a href="https://www.cobaltstrike.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cobaltstrike/cobaltstrike-icon.svg" alt="Cobalt Strike" width="40" height="40"/>
-  </a>
-  <!-- Shodan -->
-  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/shodan/shodan-icon.svg" alt="Shodan" width="40" height="40"/>
-  </a>
-  <!-- Hack The Box -->
-  <a href="https://www.hackthebox.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="Hack The Box" width="40" height="40"/>
-  </a>
-  <!-- TryHackMe -->
-  <a href="https://tryhackme.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tryhackme/tryhackme-icon.svg" alt="TryHackMe" width="40" height="40"/>
-  </a>
-  <!-- Exploit DB -->
-  <a href="https://www.exploit-db.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.exploit-db.com/images/logo.svg" alt="Exploit DB" width="40" height="40"/>
-  </a>
-  <!-- Hydra -->
-  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Hydra_Logo.svg" alt="Hydra" width="40" height="40"/>
-  </a>
-  <!-- Aircrack-ng -->
-  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/aircrack-ng/aircrack-ng-icon.svg" alt="Aircrack-ng" width="40" height="40"/>
-  </a>
-  <!-- Zap (OWASP ZAP) -->
-  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/owasp_zap/owasp_zap-icon.svg" alt="OWASP ZAP" width="40" height="40"/>
-  </a>
-  <!-- CyberChef -->
-  <a href="https://gchq.github.io/CyberChef/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github_gchq/github_gchq-icon.svg" alt="CyberChef" width="40" height="40"/>
-  </a>
+
   
 </p>
 
