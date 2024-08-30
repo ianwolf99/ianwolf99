@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ianwolf99](https://github.com/ianwolf99)
 
-- 💬 Ask me about **Django rest framework,Laravel Livewire, laravel REST API,Powershell,Bash,Linux Administration,Generative AI,Machine Learning,Deep Learning**
+- 💬 Ask me about **Laravel Livewire, laravel REST API,Powershell,Bash,Linux Administration,Generative AI,Machine Learning,Deep Learning, Django for data and AI**
 
 - 📫 How to reach me **ianwolf756@gmail.com**
 
