@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianwolf99" alt="ianwolf99" /></a> </p>
 
-- 🔭 I’m currently taking a Course on **Applied Data Science Lab**
+- 🔭 I’m currently learning **WEB3 WITH SOLANA AND ETHEREUM TECHNOLOGIES** its Untapped I know.
 
 - 🌱 I’m currently  researching Deep Learning with tensorflow 2.0 and Keras plus Building Laravel APIS
 
